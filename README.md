@@ -1,5 +1,14 @@
 # 💫 About Me:
-<br>My name is Sanika Radhakrishna Kulkarni, and I am a recent **B.Tech graduate in Computer Engineering** from **A.G. Patil Institute of Technology, Solapur**, with a CGPA of **7.8**.<br><br>I am currently working as a Software Developer Intern at Softcadd Technology, where I am gaining practical experience in software development and working with modern web technologies.<br><br>My technical skills include Python, JavaScript, SQL, React.js, Tailwind CSS, Django, MySQL, Git, GitHub, and Postman. I also have a good understanding of **DBMS, Data Structures and Algorithms, and AI/ML fundamentals**.<br><br>During my academic journey, I worked on projects such as an **Annual Report Portal** using Power BI and a **Diabetic Retinopathy Detection** system using Python, TensorFlow, OpenCV, and CNN. These projects strengthened my problem-solving skills and gave me hands-on experience in developing real-world applications.<br>Apart from academics, I have published a research paper on the Annual Report Portal, served as a **Hackathon Coordinator** for over 200 participants, and was the **Runner-up in a college-level quiz competition**.<br><br>I am a quick learner, enjoy working in a team, and am eager to contribute to an organization where I can enhance my technical skills while delivering meaningful results.<br><br>Thank you.<br>
+<br>I am a recent **B.Tech graduate in Computer Engineering** from **A.G. Patil Institute of Technology, Solapur**.
+
+I am currently working as a **Software Developer Intern at Softcadd Technology**. My technical skills include **Python, JavaScript, SQL, React.js, Django, Tailwind CSS, MySQL, Git, GitHub, and Postman**. I also have knowledge of **DSA, DBMS, and AI/ML fundamentals**.
+
+I have worked on projects such as an **Annual Report Portal** and a **Diabetic Retinopathy Detection System**, which strengthened my problem-solving and development skills. I actively share my projects and coding work on **GitHub**.
+
+I am a quick learner, enjoy working in a team, and am eager to contribute to an organization while continuously improving my technical skills.
+
+**Thank you.**
+<br>
 
 
 ## 🌐 Socials:
